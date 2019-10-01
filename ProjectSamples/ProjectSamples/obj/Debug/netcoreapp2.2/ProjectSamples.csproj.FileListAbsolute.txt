@@ -1,0 +1,14 @@
+C:\Users\rhajela\source\repos\ProjectSamples\ProjectSamples\bin\Debug\netcoreapp2.2\ProjectSamples.deps.json
+C:\Users\rhajela\source\repos\ProjectSamples\ProjectSamples\bin\Debug\netcoreapp2.2\ProjectSamples.runtimeconfig.json
+C:\Users\rhajela\source\repos\ProjectSamples\ProjectSamples\bin\Debug\netcoreapp2.2\ProjectSamples.runtimeconfig.dev.json
+C:\Users\rhajela\source\repos\ProjectSamples\ProjectSamples\bin\Debug\netcoreapp2.2\ProjectSamples.dll
+C:\Users\rhajela\source\repos\ProjectSamples\ProjectSamples\bin\Debug\netcoreapp2.2\ProjectSamples.pdb
+C:\Users\rhajela\source\repos\ProjectSamples\ProjectSamples\obj\Debug\netcoreapp2.2\ProjectSamples.csproj.CoreCompileInputs.cache
+C:\Users\rhajela\source\repos\ProjectSamples\ProjectSamples\obj\Debug\netcoreapp2.2\ProjectSamples.RazorAssemblyInfo.cache
+C:\Users\rhajela\source\repos\ProjectSamples\ProjectSamples\obj\Debug\netcoreapp2.2\ProjectSamples.RazorAssemblyInfo.cs
+C:\Users\rhajela\source\repos\ProjectSamples\ProjectSamples\obj\Debug\netcoreapp2.2\ProjectSamples.AssemblyInfoInputs.cache
+C:\Users\rhajela\source\repos\ProjectSamples\ProjectSamples\obj\Debug\netcoreapp2.2\ProjectSamples.AssemblyInfo.cs
+C:\Users\rhajela\source\repos\ProjectSamples\ProjectSamples\obj\Debug\netcoreapp2.2\ProjectSamples.RazorTargetAssemblyInfo.cache
+C:\Users\rhajela\source\repos\ProjectSamples\ProjectSamples\obj\Debug\netcoreapp2.2\ProjectSamples.dll
+C:\Users\rhajela\source\repos\ProjectSamples\ProjectSamples\obj\Debug\netcoreapp2.2\ProjectSamples.pdb
+C:\Users\rhajela\source\repos\ProjectSamples\ProjectSamples\obj\Debug\netcoreapp2.2\ProjectSamples.csprojAssemblyReference.cache
